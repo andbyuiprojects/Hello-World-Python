@@ -1,10 +1,8 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a simple program to display hello world as an introduction to Python.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
+I created this program to help me get started on some of my work on Git Hub and to get a better understanding of what goes into it.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
