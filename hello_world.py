@@ -1,2 +1,2 @@
 # This is a simple print statement.
-print ("Hello World!")
+print ("\nHello World!\n")
